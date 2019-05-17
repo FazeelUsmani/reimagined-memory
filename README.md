@@ -1,6 +1,6 @@
 # reimagined-memory
 
-This file includes my final year project. 
+This file includes the advancements in image engineering. Starting with a normal 90° image to a vertical panorama and at present a 360° image.  
 
 Name: Fazeel Usmani
 Roll No: 2451-14-737-036
